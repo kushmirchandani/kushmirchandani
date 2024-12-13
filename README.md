@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey, my name is Kush! I’m a student at the University of Florida 🐊 who's deeply passionate about **education equality** and **self-improvement**.
 
-<!--
-**kushmirchandani/kushmirchandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I’m working on
+- Building educational platforms and resources to help students succeed.
+- Learning and improving my skills in web and iOS development.
+- Exploring ways to leverage technology for social impact.
 
-Here are some ideas to get you started:
+## 🎓 Education & Experience
+- **University of Florida (UF)**: [CS + Entrepreneurship], [2028]
+- Founder of [Fine Point Tutoring](https://finepointtutoring.com/)
+- Former Intern @ [NOAA](https://www.noaa.gov/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 How to Reach Me
+- **Email**: [kmirchandani.edu@gmil.com](mailto:kmirchandani.edu@gmil.com)
+
+
